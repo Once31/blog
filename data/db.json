@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "djdjddjdddddd dddddddd dddd ddddddddd ddddddddd ddddddd ddddddd d dddd dddddd d ddddd ddd dddd d"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Postdd",
+      "datetime": "December 27, 2022 3:07:37 PM",
+      "body": "djdjddj"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "djdjddj"
+    },
+    {
+      "id": 5,
+      "title": "happy diwali",
+      "datetime": "December 29, 2022 2:26:59 PM",
+      "body": "celibration yes"
+    },
+    {
+      "id": 6,
+      "title": "Happy New Year",
+      "datetime": "December 29, 2022 9:13:34 PM",
+      "body": "New year 20dd23"
+    }
+  ]
+}
