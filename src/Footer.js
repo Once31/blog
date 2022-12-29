@@ -1,7 +1,8 @@
-import React from "react";
+import { useStoreState } from "easy-peasy";
 
 const Footer = () => {
-  return <footer className="Footer">Aj &hearts;</footer>;
+  const postCount = useStoreState((state) => state.postCount);
+  return <footer className="Footer">{postCount} &hearts; Blog Posts</footer>;
 };
 
 export default Footer;
